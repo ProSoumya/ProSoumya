@@ -7,7 +7,9 @@
 - 📫 How to reach me: srsahu996@gmail.com || Contact-info: <span style='color: red;'>+91-7873951016</span> || Dev Portfolio - Currently in Progress :wink:
 - 😄 Pronouns: He/Him
 
-A very <span style='color: red;'>long</span> sentence.
+<span style="color:red">
+Text content
+</span>
 
 
 <br/>
