@@ -4,7 +4,7 @@
 ### Hi there, I'm Soumya! 👋
 - 💃🏻 I'm a Data Science Enthusiast ! I love to do experiment with Data. 
 - 🌱 I’m currently working as a Senior Data Scientist in Retail Domain Specifically on Personalized Recommendation and Search Roles.
-- 📫 How to reach me: srsahu996@gmail.com || <h1 style="color:green;">+91-7873951016</h1> || Dev Portfolio - Currently in Progress :wink:
+- 📫 How to reach me: srsahu996@gmail.com || <span style='color: red;'>+91-7873951016</span> || Dev Portfolio - Currently in Progress :wink:
 - 😄 Pronouns: He/Him
 
 <br/>
