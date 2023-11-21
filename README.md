@@ -6,6 +6,8 @@
 - 🌱 I’m currently working as a Senior Data Scientist in Retail Domain Specifically on Personalized Recommendation and Search Roles.
 - 📫 How to reach me: srsahu996@gmail.com || Contact-info: **+91-7873951016** || Dev Portfolio - Currently in Progress :wink:
 - 😄 Pronouns: He/Him
+- <span style="color:blue">This is blue text.</span>
+
 
 <br/>
 
