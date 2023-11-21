@@ -1,17 +1,16 @@
 ![Soumya Ranjan Sahu, Data Scientist](https://github.com/ProSoumya/ProSoumya/blob/main/header.png)
 
 
-<!--
-**ProSoumya/ProSoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Soumya! 👋
+- 💃🏻 I'm a Data Science Enthusiast ! I love to do experiment with Data. 
+- 🌱 I’m currently working as a Senior Data Scientist in Retail Domain Specifically on Recommendation and Search Roles.
+- 📫 How to reach me: srsahu996@gmail.com || Dev Portfolio - Currently in Progress :wink:
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+<br/>
+<br/>  
