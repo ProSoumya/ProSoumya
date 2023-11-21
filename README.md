@@ -1,4 +1,5 @@
-<img src= "https://github.com/ProSoumya/ProSoumya/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+![Soumya Ranjan Sahu, Data Scientist](https://github.com/ProSoumya/ProSoumya/blob/main/header.png)
+
 
 <!--
 **ProSoumya/ProSoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
